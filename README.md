@@ -28,7 +28,8 @@ Enable the RTP keepalive feature to maintain continuous RTP packet flow between 
 2. Navigate to **Settings → Security → Service**.  
 3. Enable the **SSH** checkbox.  
    - A password will appear — **save or copy** it for later.  
-<img width="1400" height="816" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/ae944f44-66ff-4cda-8371-2cdc09501df6" />
+<img width="1400" height="816" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/8907f372-824b-4b14-b427-f702d28e66ad" />
+
 
 ---
 
